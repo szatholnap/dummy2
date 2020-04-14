@@ -21,6 +21,7 @@ public class Main {
 		thisisanobject.ThisDoesNothing();
 		thisisanobject.ThisOneCallsTheMethodThatDoesNothing();
 		thisisanobject.WasteResourcesAsMuchAsICan();
+		thisisanobject.WasteResourcesAsMuchAsICan();
 		thisisanobject.ItWritesNothingAnEmptyString();
 
 	}
